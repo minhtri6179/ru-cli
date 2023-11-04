@@ -1,5 +1,7 @@
 # ru-cli
 Rewrite some CLI which have simplified input and output systems.
+![rust image](/static/rs.png)
+
 
 ### Must do:
 - `echo:` repeats input
